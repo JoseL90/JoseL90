@@ -8,7 +8,7 @@
   <h1>José Luis González Carlos</h1>
   <p class="contact">
     Administrador de Redes y Sistemas | Desarrollador Software | RPA Developer<br>
-    📞 +34 600 817 568 | 📧 <a href="mailto:joseLuisgc90trabajo@gmail.com">joseLuisgc90trabajo@gmail.com</a><br>
+    📧 <a href="mailto:joseLuisgc90trabajo@gmail.com">joseLuisgc90trabajo@gmail.com</a><br>
     🌐 <a href="http://www.linkedin.com/in/joseluisgonzálezcarlos" target="_blank">LinkedIn</a> <br>
     📍 España | Carnet de conducir B | Disponibilidad inmediata y movilidad nacional/internacional
   </p>
